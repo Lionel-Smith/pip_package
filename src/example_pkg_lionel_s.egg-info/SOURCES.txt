@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/example_pkg_lionel_s.egg-info/PKG-INFO
+src/example_pkg_lionel_s.egg-info/SOURCES.txt
+src/example_pkg_lionel_s.egg-info/dependency_links.txt
+src/example_pkg_lionel_s.egg-info/top_level.txt
+src/tests_function/__init__.py
+src/tests_function/example_test.py
