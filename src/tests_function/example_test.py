@@ -1,2 +1,2 @@
 def plus_6(number):
-    return number+6
+    return number+8
