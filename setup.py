@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="example-pkg-lionel_s",
-    version="0.0.1",
+    version="0.0.2",
     author="Lionel Smith",
     author_email="lionelsmith_1997@hotmail.com",
     description="A test function that adds 6 to a number",
